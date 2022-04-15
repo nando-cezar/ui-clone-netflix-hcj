@@ -1,6 +1,6 @@
 # TRANSITION: NETFLIX
 <p align="center">
-  <img src="https://github.com/nando-cezar/repository-img/blob/master/ui-clone-netlfix-hcj.PNG">
+  <img src="https://github.com/nando-cezar/repository-img/blob/master/ui-clone-netflix-hcj.PNG">
 </p>
 
 > Status: completed.
